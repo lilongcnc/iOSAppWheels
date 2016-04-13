@@ -9,7 +9,7 @@
 
 ###轮子
 `L-轮播器`
-**Block 回调制作成的无限轮播器** 简书上查看思路和下载源码  [链接在此](http://www.jianshu.com/p/c854f89d8be0)
+**Block 回调制作成的无限轮播器**( 简书上查看思路和下载源码)   [链接在此](http://www.jianshu.com/p/c854f89d8be0)
 
 
 ### 结尾
