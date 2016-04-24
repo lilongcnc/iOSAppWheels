@@ -26,6 +26,9 @@
 
 **过渡动画就涉及到 coreAnimatio的绘制了,想要学习的话,网上还有的书电子版比较有名.我在这里推荐两个第三方,都是 Swift 写的感兴趣的同学可以转 成 OC,后边那个是我大学同学唐写的**  [链接在此1](https://github.com/ninjaprox/NVActivityIndicatorView)   [链接在此2](https://github.com/saitjr/STLoadingGroup)
 
+>` T-图表:折线图,饼状图,柱状图等等`
+
+**图表是我们实际项目中,一个很常见的种类.我的好几个朋友的项目就涉及到了图表的展示.前端时间项目中,也利用 coreAnimation 绘制了折线图,这几天在追找轮子的过程中,找到了 Echarts 这个 SDK,功能异常强大,支持的图表种类很丰富. 普通的折线图,柱状图,饼状图,甚至还有点状图,和世界地图图表等等......既可以动态展示,也还可以动画效果模拟走势.使用的是 javaScript, 具体请看 ios 移动端Demo.**  [链接在此](https://github.com/Pluto-Y/iOS-Echarts)
 
 
 
