@@ -35,7 +35,7 @@
 **用户引导页是我们在版本更新或者用户第一次打开最直接的指导用户的页面.除了最平常的平滑的左右滑动的引导页.这里有一款仿照 网易bobo 的引导页效果[链接在此](https://github.com/Nododo/ADo_GuideView)
 
 >`  S- 首页等待页面`
-**在我们进入 app 的时候,并不是每个 app 都直接进入 rootViewCController 页面的.在此之前,会有一些过渡等待的页面.这里第一个是 scrollView 不定时左右移动的效果,也是一个 app 的效果(忘了具体是哪个了)背景换成想要的图片,很赞. [链接在此](https://github.com/sachinkesiraju/SKPanoramaView)
+**在我们进入 app 的时候,并不是每个 app 都直接进入 rootViewController 页面的.在此之前,会有一些过渡等待的页面.这里第一个是 scrollView 不定时左右移动的效果,也是一个 app 的效果(忘了具体是哪个了)背景换成想要的图片,很赞. [链接在此](https://github.com/sachinkesiraju/SKPanoramaView)
 
 
 ### 结尾
