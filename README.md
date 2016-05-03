@@ -37,6 +37,8 @@
 >`  S- 首页等待页面`
 **在我们进入 app 的时候,并不是每个 app 都直接进入 rootViewController 页面的.在此之前,会有一些过渡等待的页面.这里第一个是 scrollView 不定时左右移动的效果,也是一个 app 的效果(忘了具体是哪个了)背景换成想要的图片,很赞. [链接在此](https://github.com/sachinkesiraju/SKPanoramaView)
 
+>`  X-  相册`
+**相册选择是我们 app 里几乎必备的一个功能。网上的开源代码主要区别就是界面的定制化和功能的多少体现。第一个推荐的这个，是我见过功能最全的，我们可以进行切换相册的文件夹，具体请移步到这里。[链接在此1](https://github.com/alienjun/AJPhotoPicker)
 
 ### 结尾
 ---
