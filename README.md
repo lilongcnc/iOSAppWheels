@@ -40,6 +40,15 @@
 >`  X-  相册`
 **相册选择是我们 app 里几乎必备的一个功能。网上的开源代码主要区别就是界面的定制化和功能的多少体现。第一个推荐的这个，是我见过功能最全的，我们可以进行切换相册的文件夹，具体请移步到这里。[链接在此1](https://github.com/alienjun/AJPhotoPicker)
 
+
+
+
+
+*** 其它
+>`C-Categories`
+代码所需要的各种分类 category总结 [ 链接在此](https://github.com/shaojiankui/iOS-Categories)
+
+
 ### 结尾
 ---
 希望能和大家交流技术
