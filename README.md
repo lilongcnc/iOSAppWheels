@@ -12,6 +12,8 @@
 
 **Block 回调制作成的无限轮播器**( 简书上查看思路和下载源码)   [链接在此](http://www.jianshu.com/p/c854f89d8be0)
 
+另一款star在1900+的轮播器,我们公司项目中用的就是这个,很多定制化的小属性. [链接在此](https://github.com/gsdios/SDCycleScrollView)
+
 
 >`C- 侧边滑动菜单`
 
