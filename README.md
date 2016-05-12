@@ -50,7 +50,7 @@
 
 - 现在市面上主流的分享有shareSDK,友盟,前两者都是由公司支持和负责版本更新,除了主要的分享功能外,还有崩溃统计,分享统计等等额外功能. 这里附接上我的关于shareSDK的封装:[链接在此](https://github.com/lilongcnc/LLShareSDKTool)  还有我同学关于友盟分享的封装:[连接在此](https://github.com/saitjr/STShareTool)
 
--除了主流的公司分享外,还有个人维护的分享框架.目前发现最好的就是openShare,其最大的特点就是不需要在工程中加入分享公司的体积巨大的SDK包,如同作者说的'即使你不在项目中使用OpenShare，也可以clone下来研究一下app和客户端之间的通信机制',即使我们不使用openShare也应该下载下来研究一下通讯机制. 除了分享之外,openShare还可以进行封装了常见的微信支付宝支付和三方登录.话不多说,请移步[链接在此](https://github.com/100apps/openshare)  这里还附加一个网友简单实用其分享功能的Demo,[链接在此](https://github.com/XHTeng/XHShareDemo)
+- 除了主流的公司分享外,还有个人维护的分享框架.目前发现最好的就是openShare,其最大的特点就是不需要在工程中加入分享公司的体积巨大的SDK包,如同作者说的'即使你不在项目中使用OpenShare，也可以clone下来研究一下app和客户端之间的通信机制',即使我们不使用openShare也应该下载下来研究一下通讯机制. 除了分享之外,openShare还可以进行封装了常见的微信支付宝支付和三方登录.话不多说,请移步[链接在此](https://github.com/100apps/openshare)  这里还附加一个网友简单实用其分享功能的Demo,[链接在此](https://github.com/XHTeng/XHShareDemo)
 
 
 
