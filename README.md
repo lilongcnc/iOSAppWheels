@@ -52,7 +52,7 @@
 
 - 除了主流的公司分享外,还有个人维护的分享框架.目前发现最好的就是openShare,其最大的特点就是不需要在工程中加入分享公司的体积巨大的SDK包,如同作者说的'即使你不在项目中使用OpenShare，也可以clone下来研究一下app和客户端之间的通信机制',即使我们不使用openShare也应该下载下来研究一下通讯机制. 除了分享之外,openShare还可以进行封装了常见的微信支付宝支付和三方登录.话不多说,请移步[链接在此](https://github.com/100apps/openshare)  这里还附加一个网友简单实用其分享功能的Demo,[链接在此](https://github.com/XHTeng/XHShareDemo)
 
-```
+
 >`  W-  webView访问`
 
 **我们在微信上打开一个链接,会push到一个专门用于展示网页的控制器,在这个控制器中,我们点击进入下一层,导航条上返回键的地方会自动出现返回和关闭的按钮。或
@@ -62,13 +62,13 @@
 - 第二个模仿微信的网页页面,并且导航条上出现对应的`返回`和`关闭`按钮.[链接在此2](https://github.com/Zws-China/WebViewController)
 
 **两个项目,原理都不是很难,仅供大家参考,其实大家也可以自己封装自己的一套专门用来显示网页的轮子.
-```
 
-```
+
+
 *** 其它
 >`C-Categories`
 代码所需要的各种分类 category总结 [ 链接在此](https://github.com/shaojiankui/iOS-Categories)
-```
+
 
 ### 结尾
 ---
