@@ -55,7 +55,7 @@
    另外我也简单封装了一下,降低和项目的耦合. -> [LLOpenShareTool](https://github.com/lilongcnc/LLOpenShareTool)
 
 
-> WebView访问
+> UIWebView访问
 
 我们在微信上打开一个链接,会push到一个专门用于展示网页的控制器,在这个控制器中,我们点击进入下一层,导航条上返回键的地方会自动出现返回和关闭的按钮。
 
@@ -65,7 +65,8 @@
 
 两个项目,原理都不是很难,仅供大家参考,其实大家也可以自己封装自己的一套专门用来显示网页的轮子.
 
-
+> 加载GIF图片
+   单个或者Cell中显示GIF。->[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)
 
 ### 其它
 > C-Categories
