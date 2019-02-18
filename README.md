@@ -66,6 +66,7 @@
 两个项目,原理都不是很难,仅供大家参考,其实大家也可以自己封装自己的一套专门用来显示网页的轮子.
 
 > 加载GIF图片
+
    单个或者Cell中显示GIF。->[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)
 
 ### 其它
